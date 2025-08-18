@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dnahub.shop/sitemap.xml
